@@ -6,8 +6,14 @@ Contacts:
 
 <div>
     <a href="https://www.youtube.com/channel/UCOkbpu3eISBkp12cLPVQ9lQ">
-    <img height="180em" src="https://github-readme-status.vercel.app/api?username=deividduarte20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=deividduarte20&layout=compact&langs_count-16&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deividduarte20&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividduarte20&theme=tokyonight&layout=compact"/>(https://github.com/deividduarte20/github-readme-stats)
+
+
+
+
+
+</div>
 
 ### Technologies I use
 
