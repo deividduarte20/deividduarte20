@@ -7,11 +7,7 @@ Contacts:
 <div>
     <a href="https://www.youtube.com/channel/UCOkbpu3eISBkp12cLPVQ9lQ">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deividduarte20&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividduarte20&theme=tokyonight&layout=compact"/>(https://github.com/deividduarte20/github-readme-stats)
-
-
-
-
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividduarte20&theme=tokyonight&layout=compact"/>
 
 </div>
 
