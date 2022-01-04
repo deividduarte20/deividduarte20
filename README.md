@@ -30,6 +30,7 @@ Contacts:
 
 ## Latest videos:
 
+- [Automatizando processos no windows com ansible](https://www.youtube.com/watch?v=Ox_wSE0C9so&t=31s)</br>
 - [Variáveis de inventário e ansible-vault](https://www.youtube.com/watch?v=QB43oAsU8AM)<br/>
 - [Introdução ao ansible](https://www.youtube.com/watch?v=G79b7soTV0Q&t=184s)<br/>
 - [Instalação do Zabbix server 5.2](https://youtu.be/gAO6JbScWhY)<br/>
