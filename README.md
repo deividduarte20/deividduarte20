@@ -24,6 +24,7 @@ Contatos:
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br />
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   <img align="center" alt="Terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" />
+  <img align="center" alt="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" />
   <img align="center" alt="Zabbix" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg" />
   </div><br/>
   
