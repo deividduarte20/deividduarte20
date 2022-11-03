@@ -1,6 +1,7 @@
 ### Seja bem vindo, sou Deivid Duarte!
 
 Sou entusiasta de tecnologia, trabalho na área de infraestrutura a mais de 7 anos, atualmente estou me especializando em metodologias DevOps.
+Adoro ensinar e poder ajudar as pessoas através da tecnologia.
 
 Contatos:
 
@@ -27,8 +28,6 @@ Contatos:
   <img align="center" alt="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" />
   <img align="center" alt="Zabbix" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg" />
   </div><br/>
-  
-  Adoro ensinar e poder ajudar as pessoas através da tecnologia.
 
 ## Seguem conteúdos do meu canal com os mais diversos conteúdos:
 - [Playlist de aulas de docker](https://youtube.com/playlist?list=PLS9_z0DGVAHV1kkS2wgPuTs-YjksLhMHp)</br>
