@@ -30,8 +30,9 @@ Contatos:
   
   Adoro ensinar e poder ajudar as pessoas através da tecnologia.
 
-## Últimos vídeos:
-
+## Seguem conteúdos do meu canal com os mais diversos conteúdos:
+- [Playlist de aulas de docker](https://youtube.com/playlist?list=PLS9_z0DGVAHV1kkS2wgPuTs-YjksLhMHp)</br>
+- [Playlist de aulas de ansible](https://youtube.com/playlist?list=PLS9_z0DGVAHWJVMCG6XFSfEO5TkFaZlIG)</br>
 - [Automatizando processos no windows com ansible](https://www.youtube.com/watch?v=Ox_wSE0C9so&t=31s)</br>
 - [Variáveis de inventário e ansible-vault](https://www.youtube.com/watch?v=QB43oAsU8AM)<br/>
 - [Introdução ao ansible](https://www.youtube.com/watch?v=G79b7soTV0Q&t=184s)<br/>
