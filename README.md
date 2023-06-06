@@ -1,6 +1,6 @@
 ### Seja bem vindo(a), sou Deivid Duarte!
 
-Sou entusiasta de tecnologia, trabalho na área de infraestrutura a mais de 7 anos, atualmente estou me especializando em metodologias DevOps.
+Sou entusiasta de tecnologia, trabalho na área de infraestrutura a mais de 11 anos, atualmente estou me especializando em metodologias DevOps.
 Adoro ensinar e poder ajudar as pessoas através da tecnologia.
 
 Contatos:
